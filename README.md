@@ -1,1 +1,1 @@
-# palindrome-checker
+This is a palindrome checker which checks whether a word is a palindrome or not when you enter the word inside the box.
